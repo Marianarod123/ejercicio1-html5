@@ -1,0 +1,61 @@
+body{
+background:url('images/FondoFINAL.jpg')no-repeat center center fixed;
+background-size: cover;
+color:white;
+font-family: sans-serif;
+margin: 0;
+padding:0;
+
+
+}
+
+#wrapper{
+width:90%;
+height: auto;
+margin: 0 auto;
+}
+
+#heading{
+	font-size: 48px;
+	
+
+
+}
+
+#one{
+	width:28.5%;
+	height: 100%;
+	display:inline-block;
+    margin:12px;
+    padding:12px;
+    vertical-align: top;
+}
+
+
+#two{
+	width:28.5%;
+	height: 100%;
+	display:inline-block;
+    margin:12px;
+    padding:12px;
+	vertical-align: top;
+}
+
+
+#three{
+	width:28.5%;
+	height: 100%;
+	display:inline-block;
+    margin:12px;
+    padding:12px;
+	vertical-align: top;
+}
+
+img{
+	width: 100%;
+	border-radius: 200px;
+
+
+}
+
+
